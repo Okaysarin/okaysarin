@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Sarin Sandeep!<br><br>🚀 Full-Stack Developer Intern | Java Enthusiast | Fitness Buff<br><br>🛠️ What I'm working on :<br>🔭 Internship: Developing full-stack solutions and exploring cloud architectures.<br>☕ Java: Currently deep-diving into Java to master back-end scalability.<br>🌐 Web: Building responsive and dynamic applications<br><br>🌱 Currently learning Spring Boot & Cloud Deploymen<br><br>📈 Stats & Connect<br>📍 Based in: Bangalore, India<br>📫 How to reach me : <br>                  💼 LinkedIn: www.linkedin.com/in/sarin-sandeep-OK                 <br>                   📧 Email:  okaysarin@gmail.com
+👋 Hi there, I'm Sarin Sandeep!<br><br>🚀 Full-Stack Developer Intern | Java Enthusiast | Fitness Buff<br><br>🛠️ What I'm working on :<br>🔭 Internship: Developing full-stack solutions and exploring cloud architectures.<br>☕ Java: Currently deep-diving into Java to master back-end scalability.<br>🌐 Web: Building responsive and dynamic applications<br>🌱 Currently learning Spring Boot & Cloud Deploymen<br>📈 Stats & Connect<br>📍 Based in: Bangalore, India<br>📫 How to reach me : <br>                  💼 LinkedIn: www.linkedin.com/in/sarin-sandeep-OK                 <br>                   📧 Email:  okaysarin@gmail.com
 
 
 ## 🌐 Socials:
